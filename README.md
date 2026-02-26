@@ -1,6 +1,6 @@
 ## Opa! Eu sou o Vibes
 
-- 💻 Trabalho com Front-End
+- 💻 Trabalho atualmente com Front-End
 - 🌱 Atualmente estudando HTML e CSS
 - 🎮 Experiência com servidores RP, comunidades e projetos digitais
 - 🎨 Também atuo com edições, banners e identidades visuais
